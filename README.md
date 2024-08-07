@@ -1,15 +1,9 @@
-- 👋 Hi, I’m @fahmcode - Fahmi Ali
-- 👀 I’m interested in software development and hardare development specially Robotics
-- 🌱 I’m currently learning API development with express, nodejs, and mongodb
-- 💞️ I’m looking to collaborate on any software development tasks
-- 📫 How to reach me? use my social media accounts:
-  t.me/fahmaliyi
-  instagram.com/fahmaliyi
-  youtube.com/@fahmcode
-  twitter.com/fahmcode
-  facebook.com/fahm.aliy.1
+ Hi, I'm [@fahmcode](https://github.com/fahmcode) - Fahmi Ali
 
-<!---
-fahmcode/fahmcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+** I'm interested in:** Software development and hardware development, especially robotics  ** I'm currently learning:** Building web applications and APIs with Go (Golang)  **‍ I'm skilled in:** React, Next.js, and various databases  ** I'm looking to collaborate on:** Software development projects  ** How to reach me:**
+
+* [Telegram](t.me/fahmaliyi)
+* [Instagram](instagram.com/fahmaliyi)
+* [YouTube](youtube.com/@fahmcode)
+* [Twitter](twitter.com/fahmcode)
+* [Facebook](facebook.com/fahm.aliy.1)
