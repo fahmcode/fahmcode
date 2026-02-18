@@ -1,4 +1,4 @@
-# Hi 👋, I'm [@fahmcode](https://github.com/fahmcode) - Fahmi Ali
+# Hi 👋, I'm [@fahmcode](https://github.com/fahmcode) - Fahmi Aliyi
 
 ## 🌟 About Me
 **🔭 I'm interested in:**  
