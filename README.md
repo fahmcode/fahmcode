@@ -66,11 +66,15 @@ I specialize in building reliable MVPs and developer tools with a focus on Clean
 
 <br />
 
-## Technical Impact & Metrics
+## Technical Impact & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmcode&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=777&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmcode&layout=compact&theme=transparent&hide_border=true&title_color=3178C6&text_color=777" width="45%" />
+  <img src="https://raw.githubusercontent.com/fahmcode/fahmcode/output/github-contribution-grid-snake.svg" alt="Activity animation" />
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=fahmcode&show_icons=true&theme=react&hide_border=true&title_color=3178C6&icon_color=3178C6&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmcode&layout=compact&theme=react&hide_border=true&title_color=3178C6" width="45%" />
 </div>
 
 <br />
