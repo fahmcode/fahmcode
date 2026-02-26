@@ -23,8 +23,6 @@ I specialize in building reliable MVPs and developer tools with a focus on Clean
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
----
-
 </div>
 
 ## Selected Engineering Projects
@@ -77,13 +75,11 @@ I specialize in building reliable MVPs and developer tools with a focus on Clean
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=fahmcode&show_icons=true&theme=react&hide_border=true&title_color=3178C6&icon_color=3178C6&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmcode&layout=compact&theme=react&hide_border=true&title_color=3178C6" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmcode&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahmcode&theme=react" width="45%" />
 </div>
 
 <br />
-
----
 
 <div align="center">
 
@@ -92,16 +88,17 @@ I am currently open to new opportunities and technical collaborations. If you ar
 
 <br />
 
-**Find me on**
-<br />
-[**GitHub**](https://github.com/fahmcode) &nbsp; | &nbsp; [**LinkedIn**](https://linkedin.com/in/fahmcode) &nbsp; | &nbsp; [**X / Twitter**](https://x.com/fahmcode) &nbsp; | &nbsp; [**Portfolio**](https://fahm.vercel.app)
+### Contact & Socials
+
+**Connect with me**
+[GitHub](https://github.com/fahmcode) / [LinkedIn](https://linkedin.com/in/fahmcode) / [X](https://x.com/fahmcode) / [Portfolio](https://fahm.vercel.app)
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=fahmcode&color=3178C6&label=PAGE+VIEWS&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=fahmcode&color=3178C6&label=VIEWS&style=flat-square" />
 
 <br />
 
-<sub>&copy; 2026 Fahmi Aliyi • Built for performance</sub>
+<sub>&copy; 2026 Fahmi Aliyi • Software Engineer</sub>
 
 </div>
