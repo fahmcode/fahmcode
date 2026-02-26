@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-<img src="https://avatars.githubusercontent.com/u/142608496?v=4" width="100" height="100" style="border-radius: 50%; border: 2px solid #3178C6;" />
+
 
 # Fahmi Aliyi
 **Software Engineer | Full-Stack Developer**
@@ -81,7 +81,7 @@ I specialize in building reliable MVPs and developer tools with a focus on Clean
 
 <br />
 
-<div align="center">
+<div align="left">
 
 ### Availability
 I am currently open to new opportunities and technical collaborations. If you are looking for an engineer who values code quality and system performance, let's connect.
