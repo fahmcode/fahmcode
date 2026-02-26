@@ -69,7 +69,11 @@ I specialize in building reliable MVPs and developer tools with a focus on Clean
 ## Technical Impact & Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahmcode/fahmcode/output/github-contribution-grid-snake.svg" alt="Activity animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahmcode/fahmcode/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahmcode/fahmcode/output/github-contribution-grid-snake.svg">
+    <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/fahmcode/fahmcode/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <br />
 
